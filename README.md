@@ -1,2 +1,3 @@
-# -wwi15seb_machine-learning_docs
-Documentations and presentations for ML-project of 6th semester.
+# Documentations and presentations for ML-project of the 6th semester.
+
+Find the presentation in the subfolder called "presentation".
